@@ -100,7 +100,13 @@ The application can be deployed using:
 * Hugging Face Spaces
 
 ---
+## 📸 Screenshots
 
+### Application Interface
+![App Interface](images/app_interface.png)
+
+### Detection Result
+![Detection Result](images/detection_result.png)
 ## 👩‍💻 Author
 
 Fatima Zahra EL OUARDI
